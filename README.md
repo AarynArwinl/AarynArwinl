@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 😃 Talk to me about!!
+
+- Front-end development using **HTML, Javascript,CSS,Bootstrap, Vue JS**
+- Backend development using **Node Js**
+- Machine Learning
+- Portfolio site: [Portfolio](https://pushpneetsingh.netlify.com/)
+
+![github stats](https://github-readme-stats.vercel.app/api?username=PushpneetSingh&show_icons=true)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=PushpneetSingh.PushpneetSingh)
+
+---
